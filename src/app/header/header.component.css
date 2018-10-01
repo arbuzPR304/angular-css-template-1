@@ -1,0 +1,37 @@
+.logo {
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: 600;
+    position: relative;
+    top: 20%;
+    left: 2%;
+}
+nav {
+    position: absolute;
+    display: inline-block;
+    top: 20%;    
+    right: 10%;
+
+}
+
+nav {
+    color: #aaa5a5;
+    transition: color 0.3s ease-out;
+}
+
+nav:hover{
+    color: #fff;
+    transition: color 0.3s ease-in;
+}
+nav div, i {
+    font-size: 1rem;
+    font-weight: 600;
+    display: inline;
+    vertical-align: middle;
+}
+
+nav i {
+    font-size: 1.2rem;
+    margin: 5px;
+}
+
