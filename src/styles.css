@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    position: relative;
+    min-width: 1024px;
+    min-height: 768px;
+    height: 100%;
+
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+body a {
+    text-decoration: none;
+}
