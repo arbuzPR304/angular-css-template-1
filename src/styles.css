@@ -1,9 +1,9 @@
 body {
-    position: relative;
     min-width: 1024px;
     min-height: 768px;
     height: 100%;
-
+    width: 100%;
+    font-size:16px;
     font-family: Georgia, Times, "Times New Roman", serif;
 }
 body a {
